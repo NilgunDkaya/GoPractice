@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "categoryId": 1,
+      "unitPrice": 5000.99
+    },
+    {
+      "id": 2,
+      "productName": "Mouse",
+      "categoryId": 1,
+      "unitPrice": 50.65
+    },
+    {
+      "id": 3,
+      "productName": "Water",
+      "categoryId": 2,
+      "unitPrice": 0.99
+    },
+    {
+      "id": 4,
+      "productName": "Telefon",
+      "categoryId": 1,
+      "unitPrice": 85000
+    },
+    {
+      "id": 5,
+      "productName": "Mikrofon",
+      "categoryId": 1,
+      "unitPrice": 85000
+    },
+    {
+      "id": 7,
+      "productName": "Klavye",
+      "categoryId": 1,
+      "unitPrice": 3000
+    },
+    {
+      "id": 8,
+      "productName": "Güç Kablosu",
+      "categoryId": 1,
+      "unitPrice": 300
+    },
+    {
+      "id": 9,
+      "productName": "Hdmi Kablosu",
+      "categoryId": 1,
+      "unitPrice": 450
+    },
+    {
+      "id": 10,
+      "productName": "Laptop Yükseltici",
+      "categoryId": 1,
+      "unitPrice": 100
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Technology"
+    },
+    {
+      "id": "2",
+      "categoryName": "Beverages"
+    }
+  ]
+}
